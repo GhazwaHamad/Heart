@@ -1,2 +1,2 @@
 # Heart
-Python project that draws nested hearts using line art.
+A simple Python project that draws nested heart shapes using line art and turtle graphics.
